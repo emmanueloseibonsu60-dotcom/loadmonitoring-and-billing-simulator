@@ -64,7 +64,7 @@ void showAppliances()
 }
 
 int main()
-{
+{                                
     addAppliance();
     showAppliances();
 
